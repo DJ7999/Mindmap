@@ -1,0 +1,26 @@
+.sk-editor {
+    
+    
+  }
+  
+  .sk-toolbar {
+    margin-bottom: 10px;
+  }
+  
+  .sk-toolbar button {
+    margin-right: 5px;
+  }
+  
+  .sk-content {
+    
+    min-height: 200px;
+    padding: 5px;
+  }
+  
+  .sk-preview {
+    border: 1px solid #ccc;
+    min-height: 200px;
+    padding: 5px;
+    margin-top: 10px;
+  }
+  
